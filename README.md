@@ -20,6 +20,6 @@ CareerFoundry Portfolio Project - Instacart is a grocery delivery and pick-up se
 <h2 id="tools">Tools</h2>
 <p>For this project, the following python libraries were used:</p>
 <ul>
-<li>   For data analysis: pandas, numpy</li>
-<li>   For visualization: matploblib.pyplot, seaborn, scipy</li>
+<li>   For data analysis: pandas, NumPy</li>
+<li>   For visualization: matploblib, seaborn, scipy</li>
 </ul>
